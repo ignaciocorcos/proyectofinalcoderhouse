@@ -29,13 +29,13 @@
 }
 .inicio h1 {
   margin: 5px;
-  padding: 50px 16px 10px 16px;
+  padding: 70px 16px 15px 16px;
 }
 .inicio p {
   justify-items: center;
   background-color: #828a8a;
   margin: 0px;
-  padding: 10px 32px;
+  padding: 15px 32px;
 }
 .inicio iframe {
   width: 60%;
