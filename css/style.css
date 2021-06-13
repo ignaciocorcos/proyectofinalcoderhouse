@@ -27,6 +27,10 @@
   margin: 0;
   padding: 0;
 }
+.inicio h1 {
+  margin: 10px;
+  padding: 6em 2em;
+}
 .inicio p {
   justify-items: center;
   background-color: #828a8a;
@@ -37,7 +41,13 @@
   width: 60%;
   background-color: black;
   padding: 5px 70px;
+  margin: unset;
 }
+
+#servicios {
+  background-color: #4f5353;
+}
+
 .container-servicio {
   display: flex;
   justify-content: center;
