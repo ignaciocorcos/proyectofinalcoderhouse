@@ -1,0 +1,7 @@
+Meta description de 165 caracteres.
+<meta name="description" content="Industria dedicada al desarrollo de equipos e instalaciones vinculadas a la ingenieria electrica, desarrollamos instalaciones industriales, fuente de corriente continua, soldadura de punto y transformadores.">
+Meta keywords con 10 palabras claves del sitio.
+<meta name="keywords" content="TRANSFORMADORES, FUENTES DE CORRIENTE CONTINUA, SOLDADURA DE PUNTO, SPOT WELDING, GALVANOPLASTIA, FUENTES DE TRATAMIENTO, INSTALACIONES ELECTICAS, SPART TESTER, MEDIA TENSION, BAJA TENSION, INSTALACIONES INDUSTRIALES">
+Se modifica el title para que tenga al menos 35 caracteres y números incluidos.
+<title> DESAFIO_13_SEO INDUSTRIAS CORCOS, Rectificadores 10000Amp, Soldadura por punto 30kva, transformadores de potencia hasta 200KVA </title>
+Se utilizan jerárquicamente los encabezados H1 al H6.
