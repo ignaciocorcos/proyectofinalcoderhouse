@@ -5,6 +5,13 @@
   font-family: "Antonio", sans-serif;
 }
 
+h2, h3 {
+  text-align: center;
+  justify-items: center;
+  margin: 10px;
+  padding: 20px 10px 10px 10px;
+}
+
 .whatapp {
   margin: 5px;
   padding: 10px;
@@ -47,6 +54,7 @@
 
 #servicios {
   background-color: #4f5353;
+  text-align: center;
 }
 
 .container-servicio {
@@ -93,6 +101,7 @@
 }
 #productos {
   background-color: #828a8a;
+  text-align: center;
 }
 
 .container-productos {
@@ -113,6 +122,7 @@
 
 #clientes {
   background-color: #4f5353;
+  text-align: center;
 }
 
 .logo-cliente {
@@ -132,6 +142,7 @@
 
 #datos {
   background-color: #828a8a;
+  text-align: center;
 }
 #datos .mapa iframe {
   box-sizing: border-box;
@@ -149,6 +160,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 #contacto .speaker-form-header h1 {
   font-size: 30px;
@@ -174,6 +186,7 @@ footer {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .datos {
